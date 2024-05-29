@@ -1,7 +1,0 @@
-[
-{"id":1,"tren":"IRN78","data":"2024-03-30","plecare":"Timisoara Nord","sosire":"Arad", "ora_plecare":"07:28:00", "ora_sosire":"08:54:00", "clasa":"2", "loc":"66", "pret":"2.4", "vagon":"424"},
-{"id":2,"tren":"IRN79","data":"2024-03-30","plecare":"Timisoara Nord","sosire":"Arad", "ora_plecare":"09:28:00", "ora_sosire":"10:54:00", "clasa":"2", "loc":"66", "pret":"2.4", "vagon":"4"},
-{"id":3,"tren":"IRN79","data":"2024-03-30","plecare":"Timisoara Nord","sosire":"Arad", "ora_plecare":"09:28:00", "ora_sosire":"10:54:00", "clasa":"2", "loc":"66", "pret":"2.4", "vagon":"4"},
-{"id":4,"tren":"IRN79","data":"2024-03-30","plecare":"Timisoara Nord","sosire":"Arad", "ora_plecare":"09:28:00", "ora_sosire":"10:54:00", "clasa":"2", "loc":"66", "pret":"2.4", "vagon":"4"},
-{"id":5,"tren":"IRN79","data":"2024-03-30","plecare":"Timisoara Nord","sosire":"Arad", "ora_plecare":"09:28:00", "ora_sosire":"10:54:00", "clasa":"2", "loc":"66", "pret":"2.4", "vagon":"4"}
-]
